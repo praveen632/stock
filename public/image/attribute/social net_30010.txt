@@ -1,0 +1,4 @@
+	<ul class="social-networks">
+				
+								    <li><a rel="external" title="facebook" href="http://www.facebook.com/appmuse"><img src="http://appmuse.com/wp-content/themes/appmuse-theme/images/icons/facebook.png" alt=""></a></li>								    <li><a rel="external" title="twitter" href="http://www.twitter.com/appmuse"><img src="http://appmuse.com/wp-content/themes/appmuse-theme/images/icons/twitter.png" alt=""></a></li>								    								    								    								    								    								      
+      </ul>
